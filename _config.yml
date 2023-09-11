@@ -28,14 +28,14 @@ copyright:
 
 # Google-analytics
 google-analytics:
-  id:               "colinchpy"
+  id:               "colinchdiet"
 
 # Disqus
 disqus:
-  id:               "algamza"
+  id:               "colinchdiet"
 
 # URL
-url:                "https://colinchpy.github.io" # the base hostname & protocol for your site
+url:                "https://colinchdiet.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
 baseurl:            "/" # the subpath of your site, e.g. /blog
 
@@ -62,7 +62,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://colinchpy.github.io"
+    url:            "https://colinchdiet.github.io"
 
 # Sass
 sass:
